@@ -1,0 +1,14 @@
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\bin\Debug\net8.0\Task_2_1.exe
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\bin\Debug\net8.0\Task_2_1.deps.json
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\bin\Debug\net8.0\Task_2_1.runtimeconfig.json
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\bin\Debug\net8.0\Task_2_1.dll
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\bin\Debug\net8.0\Task_2_1.pdb
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\obj\Debug\net8.0\Task_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\obj\Debug\net8.0\Task_2_1.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\obj\Debug\net8.0\Task_2_1.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\obj\Debug\net8.0\Task_2_1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\obj\Debug\net8.0\Task_2_1.dll
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\obj\Debug\net8.0\refint\Task_2_1.dll
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\obj\Debug\net8.0\Task_2_1.pdb
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\obj\Debug\net8.0\Task_2_1.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\Intermediate_certification\Task_2_1\obj\Debug\net8.0\ref\Task_2_1.dll
